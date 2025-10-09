@@ -2,17 +2,18 @@
 
 # [Full Report Available Here](https://github.com/elsahtz2/Road-Segmentation-in-Aerial-Imagery/blob/main/Report.pdf)
 
+<div align="center">
+  <img src="https://github.com/elsahtz2/Road-Segmentation-in-Aerial-Imagery/blob/main/img/results.png" alt="Thymio Sheep" style="width:40%;">
+  <br>
+  <em>Results from our Models</em>
+</div>
+
 ## Overview
 
 Road segmentation from high-resolution satellite and aerial imagery is crucial for applications like transportation planning, urban development, and disaster management. This project leverages advanced deep learning models (U-Net, D-LinkNet, SegNet) for accurate pixel-wise road segmentation.
 
 The training pipeline includes data augmentation, loss function optimization, and model comparison to address challenges such as varying road orientations, environmental conditions, and urban layouts.
 
-<div align="center">
-  <img src="https://github.com/elsahtz2/Road-Segmentation-in-Aerial-Imagery/blob/main/img/results.png" alt="Thymio Sheep" style="width:40%;">
-  <br>
-  <em>Results from our Models</em>
-</div>
 
 ## File architechture
 
