@@ -8,6 +8,9 @@
   <em>Results from our Models</em>
 </div>
 
+## Authors
+Elsa Heitz, Antoine Tissot-Favre, Maria Cherchouri
+
 ## Overview
 
 Road segmentation from high-resolution satellite and aerial imagery is crucial for applications like transportation planning, urban development, and disaster management. This project leverages advanced deep learning models (U-Net, D-LinkNet, SegNet) for accurate pixel-wise road segmentation.
