@@ -9,7 +9,7 @@ Road segmentation from high-resolution satellite and aerial imagery is crucial f
 The training pipeline includes data augmentation, loss function optimization, and model comparison to address challenges such as varying road orientations, environmental conditions, and urban layouts.
 
 <div align="center">
-  <img src="https://github.com/elsahtz2/Robot_Maze_Navigation/blob/main/ThymioSheep.png" alt="Thymio Sheep" style="width:40%;">
+  <img src="https://github.com/elsahtz2/Road-Segmentation-in-Aerial-Imagery/blob/main/img/results.png" alt="Thymio Sheep" style="width:40%;">
   <br>
   <em>Results from our Models</em>
 </div>
