@@ -46,6 +46,8 @@ We evaluated and optimized several encoder–decoder architectures — **U-Net**
   <em>Training and validation loss comparison for SegNet, U-Net, and NL-LinkNet (from left to right).</em>
 </p>
 
+### Prediction on Test set
+See the `Example predictions` figure displayed above.
 ---
 
 ## Repository Structure
