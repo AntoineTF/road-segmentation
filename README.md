@@ -43,13 +43,7 @@ We evaluated and optimized several encoder–decoder architectures — **U-Net**
 ### Training Behavior
 <p align="center">
   <img src="figures/training_curves.png" alt="Training curves" width="600"/><br>
-  <em>Training and validation loss comparison for SegNet, U-Net, and NL-LinkNet.</em>
-</p>
-
-### Prediction Comparison
-<p align="center">
-  <img src="figures/prediction_comparison.png" alt="Predicted masks" width="650"/><br>
-  <em>Comparison of predicted segmentation masks on a test image (SegNet, U-Net, D-LinkNet).</em>
+  <em>Training and validation loss comparison for SegNet, U-Net, and NL-LinkNet (from left to right).</em>
 </p>
 
 ---
